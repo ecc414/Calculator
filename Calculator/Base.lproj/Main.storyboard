@@ -515,7 +515,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <exit id="IlJ-QE-c8p" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="276" y="-156.07196401799101"/>
+            <point key="canvasLocation" x="275.38461538461536" y="-156.39810426540285"/>
         </scene>
     </scenes>
     <resources>
