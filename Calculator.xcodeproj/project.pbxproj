@@ -13,6 +13,8 @@
 		335AE38627A272D700484182 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 335AE38427A272D700484182 /* Main.storyboard */; };
 		335AE38827A272D800484182 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 335AE38727A272D800484182 /* Assets.xcassets */; };
 		335AE38B27A272D800484182 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 335AE38927A272D800484182 /* LaunchScreen.storyboard */; };
+		3368407B27AFA27C004AF75A /* buttonSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3368407A27AFA27C004AF75A /* buttonSound.wav */; };
+		3368407D27AFA2D1004AF75A /* equalSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3368407C27AFA2D1004AF75A /* equalSound.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		335AE38727A272D800484182 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		335AE38A27A272D800484182 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		335AE38C27A272D800484182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3368407A27AFA27C004AF75A /* buttonSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = buttonSound.wav; sourceTree = "<group>"; };
+		3368407C27AFA2D1004AF75A /* equalSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = equalSound.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				335AE38727A272D800484182 /* Assets.xcassets */,
 				335AE38927A272D800484182 /* LaunchScreen.storyboard */,
 				335AE38C27A272D800484182 /* Info.plist */,
+				3368407A27AFA27C004AF75A /* buttonSound.wav */,
+				3368407C27AFA2D1004AF75A /* equalSound.wav */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			files = (
 				335AE38B27A272D800484182 /* LaunchScreen.storyboard in Resources */,
 				335AE38827A272D800484182 /* Assets.xcassets in Resources */,
+				3368407B27AFA27C004AF75A /* buttonSound.wav in Resources */,
+				3368407D27AFA2D1004AF75A /* equalSound.wav in Resources */,
 				335AE38627A272D700484182 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
